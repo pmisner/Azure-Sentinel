@@ -77,7 +77,7 @@ This exercise shows you how to enable the Microsoft Defender for Cloud data conn
 This exercise shows you how to enable the Threat Intelligence - TAXII data connector. This connector allows you to send threat indicators from TAXII servers to Microsoft Sentinel. Threat indicators can include IP addresses, domains, URLs, and file hashes.
 
 **NOTE**: To do this exercise, your user must have the Security Reader role in the subscription of the logs you stream. If not done already, you will need to enable Azure Defender within Azure Security Center.
-
+Pickup stix is no longer available.
 1. Sign up for a free TAXII 2.0 feed, like Celerium's PickupStix. Go to https://www.celerium.com/pickupstix to signup and receive your credentials.
 
 2. Go to you Microsoft Sentinel workspace and select *Data Connectors* under *Configuration* section.
